@@ -1,0 +1,1 @@
+java -jar ../../Tools/SNGP/SNGP.jar config/refined2018_8_x1.properties
