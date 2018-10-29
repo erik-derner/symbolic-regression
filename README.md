@@ -2,4 +2,4 @@
 
 ## analytic-models
 
-Repository accompanying the paper 'Symbolic Regression for Model Construction in Reinforcement Learning' by Erik Derner, Jiří Kubalík, Nicola Ancona, and Robert Babuška.
+Repository accompanying the paper 'Symbolic Regression for Constructing Analytic Models in Reinforcement Learning' by Erik Derner, Jiří Kubalík, Nicola Ancona, and Robert Babuška.
