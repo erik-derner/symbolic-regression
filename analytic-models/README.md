@@ -1,3 +1,3 @@
-# Symbolic Regression for Constructing Analytic Models in Reinforcement Learning
+# Constructing Parsimonious Analytic Models for Dynamic Systems via Symbolic Regression
 
-Code repository for the experiments described in the paper titled 'Symbolic Regression for Constructing Analytic Models in Reinforcement Learning', written by Erik Derner, Jiří Kubalík, Nicola Ancona, and Robert Babuška.
+Code repository for the experiments described in the paper titled 'Constructing Parsimonious Analytic Models for Dynamic Systems via Symbolic Regression', written by Erik Derner, Jiří Kubalík, Nicola Ancona, and Robert Babuška.
